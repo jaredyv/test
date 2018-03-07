@@ -1,0 +1,47 @@
+{
+  "draft" : False,
+  "categories" : ["Choisir-un-plan"],
+  "experience" : "Apprendre",
+  "type" : "Explainer",
+  "published" : True,
+  "title" : "3 choses à savoir avant de choisir un plan d'assurance santé ",
+  "main-title" : "Comment choisir un plan d'assurance santé",
+  "bite" : "Utilisez ce guide pour vous aider à comprendre comment comparer des plans et choisir celui qui est bon pour toi.",
+  "lang" : "En",
+  "layout" : null,
+  "featured" : False,
+  "order" : 1,
+  "explainertopic" : "Choisir-un-plan",
+  "page_name" : "Comparaison de plans de santé",
+  "page_type" : "Explainer",
+  "page_topic" : "Des plans",
+  "page_lifecycle" : "éducation",
+  "page_audience" : "Particuliers",
+  "page_category" : "Choisir-un-plan",
+  "hide-take-action" : True,
+  "has-video" : True,
+  "takeaction-heading" : "START HERE",
+  "takeaction-items" : [
+  {
+    "title" : "Voir si vous pouvez inscrire",
+    "link" : "Https://www.healthcare.gov/screener/"
+  },
+
+  {
+    "title" : "Mise à jour des ménages / revenu",
+    "link" : "/reporting-changes/"
+  },
+
+  {
+    "title" : "Utilisez votre nouvelle couverture",
+    "link" : "/using-marché-comparaison"
+  }],
+  "date" : "2014-07-25 00:00:00 -0400",
+  "slug" : "En comparant les plans-",
+  "ext" : ".md",
+  "tags" : [],
+  "excerpt" : "<div class=\"video-modal\"><p><a href=\"//www.youtube.com/embed/XOkPAANg3R8\" title=\"How to Choose a Plan in the Health Insurance Marketplace\"><img src=\"/images/video-modal/how-to-choose-a-plan-in-the-health-insurance-marketplace.jpg\" alt=\"youtube thumbnail\" /></a></p>\n\n<blockquote><p>Comment Choisissez un plan dans le Health Insurance Marketplace</p></blockquote></div>\n\n",
+  "url" : "/choose-a-plan/comparing-plans/",
+  "content" : "<div class=\"video-modal\"><p><a href=\"//www.youtube.com/embed/XOkPAANg3R8\" title=\"How to Choose a Plan in the Health Insurance Marketplace\"><img src=\"/images/video-modal/how-to-choose-a-plan-in-the-health-insurance-marketplace.jpg\" alt=\"youtube thumbnail\" /></a></p>\n\n<blockquote><p>Comment Choisissez un plan dans le Health Insurance Marketplace</p></blockquote></div>",
+  "sort" : 0
+}
