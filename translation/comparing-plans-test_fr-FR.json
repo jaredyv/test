@@ -1,0 +1,47 @@
+{
+  "draft" : false,
+  "categories" : ["choose-a-plan"],
+  "experience" : "learn",
+  "type" : "explainer",
+  "published" : true,
+  "title" : "3 choses à savoir avant de choisir un plan d'assurance santé ",
+  "main-title" : "Comment choisir un plan d'assurance santé",
+  "bite" : "Utilisez ce guide pour vous aider à comprendre comment comparer des plans et choisir celui qui est bon pour toi.",
+  "lang" : "en",
+  "layout" : null,
+  "featured" : false,
+  "order" : 1,
+  "explainertopic" : "choose-a-plan",
+  "page_name" : "Comparaison de plans de santé",
+  "page_type" : "explainer",
+  "page_topic" : "plans",
+  "page_lifecycle" : "education",
+  "page_audience" : "individuals",
+  "page_category" : "choose-a-plan",
+  "hide-take-action" : true,
+  "has-video" : true,
+  "takeaction-heading" : "START HERE",
+  "takeaction-items" : [
+  {
+    "title" : "Voir si vous pouvez inscrire",
+    "link" : "https://www.healthcare.gov/screener/"
+  },
+
+  {
+    "title" : "Mise à jour des ménages / revenu",
+    "link" : "/reporting-changes/"
+  },
+
+  {
+    "title" : "Utilisez votre nouvelle couverture",
+    "link" : "/using-marketplace-coverage/"
+  }],
+  "date" : "2014-07-25 00:00:00 -0400",
+  "slug" : "comparing-plans",
+  "ext" : ".md",
+  "tags" : [],
+  "excerpt" : "<div class=\"video-modal\"><p><a href=\"//www.youtube.com/embed/XOkPAANg3R8\" title=\"Comment Choisissez un plan dans le marché de l'assurance santé\"><img src=\"/images/video-modal/how-to-choose-a-plan-in-the-health-insurance-marketplace.jpg\" alt=\"Miniature sur youtube\" /></a></p>\n\n<blockquote><p>Comment Choisissez un plan dans le marché de l'assurance santé</p></blockquote></div>\n\n",
+  "url" : "/choose-a-plan/comparing-plans/",
+  "content" : "<div class=\"video-modal\"><p><a href=\"//www.youtube.com/embed/XOkPAANg3R8\" title=\"Comment Choisissez un plan dans le marché de l'assurance santé\"><img src=\"/images/video-modal/how-to-choose-a-plan-in-the-health-insurance-marketplace.jpg\" alt=\"Miniature sur youtube\" /></a></p>\n\n<blockquote><p>Comment Choisissez un plan dans le marché de l'assurance santé</p></blockquote></div>",
+  "sort" : 0
+}
