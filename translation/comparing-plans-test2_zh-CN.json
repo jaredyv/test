@@ -1,0 +1,47 @@
+{
+  "draft" : false,
+  "categories" : ["choose-a-plan"],
+  "experience" : "learn",
+  "type" : "explainer",
+  "published" : true,
+  "title" : "在你选择健康保险计划之前要知道的3件事 ",
+  "main-title" : "如何选择健康保险计划",
+  "bite" : "使用本指南可以帮助您了解如何比较计划并选择适合您的方案。",
+  "lang" : "en",
+  "layout" : null,
+  "featured" : false,
+  "order" : 1,
+  "explainertopic" : "choose-a-plan",
+  "page_name" : "比较健康计划",
+  "page_type" : "explainer",
+  "page_topic" : "plans",
+  "page_lifecycle" : "education",
+  "page_audience" : "individuals",
+  "page_category" : "choose-a-plan",
+  "hide-take-action" : true,
+  "has-video" : true,
+  "takeaction-heading" : "从这里开始",
+  "takeaction-items" : [
+  {
+    "title" : "查看是否可以注册",
+    "link" : "https://www.healthcare.gov/screener/"
+  },
+
+  {
+    "title" : "更新收入/住户",
+    "link" : "/reporting-changes/"
+  },
+
+  {
+    "title" : "使用您的新覆盖范围",
+    "link" : "/using-marketplace-coverage/"
+  }],
+  "date" : "2014-07-25 00:00:00 -0400",
+  "slug" : "comparing-plans",
+  "ext" : ".md",
+  "tags" : [],
+  "excerpt" : "<div class=\"video-modal\"><p><a href=\"//www.youtube.com/embed/XOkPAANg3R8\" title=\"健康保险市场中如何选择计划\"><img src=\"/images/video-modal/how-to-choose-a-plan-in-the-health-insurance-marketplace.jpg\" alt=\"youtube 缩略图\" /></a></p>\n\n<blockquote><p>健康保险市场中如何选择计划</p></blockquote></div>\n\n",
+  "url" : "/choose-a-plan/comparing-plans/",
+  "content" : "<div class=\"video-modal\"><p><a href=\"//www.youtube.com/embed/XOkPAANg3R8\" title=\"保险市场中如何选择计划\"><img src=\"/images/video-modal/how-to-choose-a-plan-in-the-health-insurance-marketplace.jpg\" alt=\"youtube 缩略图\" /></a></p>\n\n<blockquote><p>健康保险市场中如何选择计划</p></blockquote></div>",
+  "sort" : 0
+}
