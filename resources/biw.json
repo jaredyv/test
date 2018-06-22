@@ -94,7 +94,7 @@
         "dir": "ltr"
       },
       "properties": {
-        "calendar.content.instructionsLabel": "Use arrow keys to highlight dates. Pressing enter will select a date."
+        "calendar.content.instructionsLabel": "Pressing enter will select a date."
       },
       "simpleProperties": {},
       "lastModified": "2018-03-08T10:46:46-0600"
