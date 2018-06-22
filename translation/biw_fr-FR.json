@@ -1,0 +1,257 @@
+{
+  "smartling" : {
+    "string_format_paths" : "html: *",
+    "translate_paths" : {
+      "path" : "*/properties/*",
+      "key" : "*/properties/{*}"
+    }
+  },
+  "clientBranding" : {
+    "productName" : "proaccounts",
+    "clientLogo" : "https://apipprd.farm1.honeycombsvc.com/hcapi/participantMedia/bery0915/logo/1512747171526_logo.png",
+    "selectedLocale" : [],
+    "activationFields" : [
+    {
+      "id" : 5282,
+      "characteristic" : {
+        "code" : "country",
+        "label" : "Country"
+      },
+      "characteristicDataType" : "text",
+      "fieldLabel" : [
+      {
+        "locale" : {
+          "code" : "en-US",
+          "dir" : "ltr"
+        },
+        "displayName" : "English (United States)",
+        "cmText" : "Country"
+      }]
+    }],
+    "theme" : null,
+    "mediaLabels" : [
+    {
+      "locale" : {
+        "code" : "en-US",
+        "dir" : "ltr"
+      },
+      "displayName" : "English (United States)",
+      "cmText" : "Points"
+    }]
+  },
+  "locale" : "en-US",
+  "localeList" : [
+  {
+    "code" : "id-ID",
+    "label" : "Bahasa [Indonesia]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "de-DE",
+    "label" : "Deutsch [Deutschland]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "en-US",
+    "label" : "English [U.S.]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "es-ES",
+    "label" : "Español [España]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "fr-CA",
+    "label" : "Français [Canada]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "it-IT",
+    "label" : "Italiano [Italia]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "nl-NL",
+    "label" : "Nederlands [Nederland]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "ja-JP",
+    "label" : "日本語 [日本]",
+    "dir" : "ltr"
+  }],
+  "bundleList" : {
+    "en-US" : {
+      "bundleId" : null,
+      "name" : "proaccounts",
+      "locale" : {
+        "code" : "en-US",
+        "dir" : "ltr"
+      },
+      "properties" : {
+        "home.button.viewTravelLabel" : "Afficher Travel Awards",
+        "footer.link.faqsLabel" : "FAQ",
+        "contactUs.button.submitLabel" : "Envoyer un message",
+        "footer.link.rulesLabel" : "Règles",
+        "resetPassword.input.newPasswordLabel" : "Nouveau mot de passe",
+        "contactUs.input.subjectLabel" : "Objet",
+        "login.input.passwordLabel" : "Mot de passe",
+        "activityHistory.column.amountLabel" : "MONTANT",
+        "privacy.policy.header" : "PrivacyPolicy",
+        "common.content.pointsMessage" : "<span class=\"point\">${ équilibre }</span> <span class=\"${balance}\">${ mediaLabel }</span>",
+        "forgotPassword.form.headerLabel" : "Mot de passe oublié",
+        "forgotUserId.form.headerLabel" : "ID utilisateur oublié",
+        "resetPassword.input.passwordLabel" : "Mot de passe",
+        "home.content.welcomeMessageLabel" : "<h2>Bienvenue, ${ firstName }. Vous avez ...</h2>",
+        "profile.page.passwordSuccessMessage" : "Mise à jour du mot de passe a abouti.",
+        "profile.input.emailLabel" : "Adresse électronique",
+        "resetPassword.button.submitLabel" : "Réinitialiser le mot de passe",
+        "common.input.nameLabel" : "Nom",
+        "activityHistory.form.accountNumberLabel" : "Votre numéro de compte:",
+        "activityHistory.content.noActivityMessage" : "Vous n'avez pas d'activité à afficher",
+        "activityHistory.form.toLabel" : "Pour:",
+        "forgotPassword.form.successMessage" : "Le courrier électronique a été envoyé à votre adresse électronique avec des instructions pour créer votre mot de passe.",
+        "forgotUserId.form.successMessage" : "Un courrier électronique a été envoyé à votre adresse électronique avec les détails de votre ID utilisateur.",
+        "faqs.page.header" : "FAQ",
+        "profile.page.header" : "Profil",
+        "profile.input.languageLabel" : "Choisissez la langue",
+        "common.passwordRules.uppercaseLabel" : "Majuscules (A-Z)",
+        "common.passwordRules.lowercaseLabel" : "Minuscules (a-z)",
+        "common.input.usernameLabel" : "ID utilisateur",
+        "forgotPassword.input.emailAddressLabel" : "Adresse électronique",
+        "contactUs.input.messageLabel" : "Message",
+        "contact.form.successMessage" : "Message envoyé avec succès.",
+        "resetPassword.form.successMessage" : "Mot de passe modifié avec succès. Vérifiez la connexion avec le nouveau mot de passe",
+        "privacy.policy.content" : "<h3>INTRODUCTION</h3>\r\n<p>Conformité BI WORLDWIDE (&quot;<strong>)</strong>&quot;) avec l'américano-Safe Harbor Framework, et Safe Harbor Framework), énoncées par l'U.S. Department of Commerce concernant la collecte, l'utilisation et la conservation des informations ou des données personnelles obtenues par les individus de la Suisse et l'Union européenne. <strong>)</strong> a certifié qu'il respecte la Safe Harbor Privacy Principles de préavis, choix, depuis le transfert, la sécurité, l'intégrité des données, d'accès et d'application. Pour en savoir plus sur le programme Safe Harbor, et afficher la &quot; certification, veuillez visiter<a href=\"http://2016.export.gov/safeharbor/\">Safe Harbor Site Web</a>.</p>\r\n<p><strong>Les</strong> contrôle ce site et traite la vie privée des individus enregistrant sur ce site avec la plus haute importance. Cette politique de confidentialité en ligne (&quot;<strong>PrivacyPolicy</strong>&quot;) indiquent les pratiques de confidentialité en cours utilisé par ce site. Cette<strong>PrivacyPolicy</strong> aborde la façon dont<strong>)</strong> utilise et protège les informations que<strong>)</strong> collecte directement depuis vous, reçoit de votre employeur ou la société parrainant ce site Web et le programme sous-jacent (&quot;<strong>) Client</strong>&quot;) dans le cadre des services fournis par<strong>dans</strong>. Cette<strong>PrivacyPolicy</strong> <span>ne s'applique pas</span> pour les pratiques des entreprises et leurs employés avec laquelle ce site n'est pas affilié à la propriété ou le contrôle.</p>\r\n<p><strong>En utilisant ce site, vous êtes acceptant les termes de cette politique de confidentialité</strong></p>\r\n<h4>OBJET DE LA COLLECTE DE DONNEES</h4>\r\n<p>Les individus peuvent être demandées pour fournir l'information personnellement identifiable (&quot;<strong>identifiant</strong>&quot;) et / ou sensibles Personal Information<strong> (&quot; SPI)</strong> lors de l'utilisation de ce site pour activer<strong>dans</strong> pour satisfaire aux exigences des services fournis par<strong>)</strong> (&quot;<strong>sous-jacent du programme</strong>&quot;). &quot;<strong>identifiant</strong>&quot; renvoie à l'information qui est a) environ, ou se rapporte à une personne spécifique ; b) peut être lié à Cette personne ; et (c) est capturée dans un formulaire. Exemples de<strong>identifiant</strong> incluent, mais sans s'y limiter, le nom, l'adresse à domicile, courrier électronique, etc. &quot;<strong>SPI</strong>&quot; renvoie à des informations personnelles qui révèle la race, l'origine ethnique, l'orientation sexuelle, les opinions politiques, les convictions religieuses ou philosophiques, l'appartenance syndicale, numéro de sécurité sociale ou d'autres gouvernements émis ID, le numéro de carte de crédit, ou des informations qui concerne un individu &quot; santé s. &quot;<strong>PII &quot;</strong> et &quot;<strong>SPI &quot;</strong> est collectivement appelée &quot;<strong>Informations</strong>&quot;.</p>\r\n<p><strong>identifiant</strong> collectées à partir des individus est utilisé pour créer et administrer les comptes individuels, y compris à des fins de vérification compte si un individu perd ou oublie son mot de passe. <strong>identifiant</strong> peut également être utilisée pour contacter une personne par courrier électronique ou les communications imprimées sur les offres promotionnelles spéciales, ou peut être utilisé pour contacter un individu concernant toutes les questions pouvant surgir pendant l'opération de ce site ou le programme sous-jacent.</p>\r\n<p><strong>identifiant</strong> peut être utilisé pour des fins de prestation des récompenses à des individus. Si ce site inclut la possibilité de racheter des points, ou recevoir des bourses de marchandises ou de voyage, la personne sera, le cas échéant, recevoir des communications avec des informations sur la transaction (comme ordre ou confirmation d'expédition) ou des promotions spéciales. Un nombre de téléphones &quot; individuels peuvent être requises dans le cas où un individu doit être contacté si il existe un problème avec une commande.</p>\r\n<p>Lorsqu'une personne se connecte sur l'Internet, l'individu sera affecté une IP (Internet Protocol) adresse par un ISP (Internet Service Provider). Les sites Web peuvent déterminer l'adresse IP d'un individu utilise pour accéder au site. L'adresse IP peut être utilisée pour aider à diagnostiquer les problèmes avec ce site, ou pour des raisons de sécurité.</p>\r\n<h4>ACTIVITÉS DE SUIVI</h4>\r\n<p>Le site peut suivre et analyser non identifiante, agrégat, l'utilisation et les informations statistiques quantifiables de visiteurs (&quot;<strong>Statistical Information</strong>&quot;) afin de toujours améliorer la qualité de service et les performances du site. <strong>Informations statistiques</strong> collectées comprennent des éléments tels que \\: l'activité de votre navigateur lorsque vous visualisez l'emplacement, le chemin du site de votre visite, et le moment de la journée que vous visitez le site. <strong>Informations statistiques</strong> n'est pas<strong>identifiant</strong> ou<strong>SPI</strong>; uniquement des informations générales concernant l'activité dans le site. <strong>Les</strong> se réserve le droit de partager l'information statistique<strong></strong> avec<strong>dans les clients</strong>. Ce site ignore &quot; navigateur Web ne suivre les signaux &quot;. Ce site ne transmettre<strong>identifiant</strong> à des tiers dans le cadre des technologies de suivi élaboré par BIW.</p>\r\n<p><strong>)</strong> utilise Google Analytics suivi des technologies ou des activités découlant de ces conjointement avec ce site.</p>\r\n<p>Voir<a href=\"https://www.google.com/analytics/#?modal_active=none\"><strong>Google Analytics</strong></a> pour plus d'informations sur Google Analytics</p>\r\n<p>Pour refus de Google Analytics pour le Web, visitez la page de désinscription Google Analytics à<a href=\"https://tools.google.com/dlpage/gaoptout\"><strong>de Google Analytics Opt-Réserver</strong></a> et installez le module complémentaire pour votre navigateur. Pour plus d'informations sur l'installation et la désinstallation d'ajouter, consultez les ressources d'aide pertinents pour votre navigateur spécifique.</p>\r\n<p>Démographiques et des informations de profil individuel d'au-delà recueillis durant l'inscription peut également être demandée via des enquêtes facultatives ou d'autres promotions du site ou recueillies à partir de l'analyse des données agrégées ou des informations du site. Ces informations peuvent être utilisées pour fournir pertinentes, ciblées offre aux individus et n'est pas requis pour utiliser ce site.</p>\r\n<h4>UTILISATION ET TRANSFERT DE TIERS DES RENSEIGNEMENTS PERSONNELS</h4>\r\n<p><strong>identifiant</strong> et<strong>SPI</strong> ne seront pas vendues ou fournies à un tiers les parties, sauf comme prévu dans cette<strong>PrivacyPolicy</strong>, demandée par vous, ou qui peuvent être requis par la loi. Vous avez le droit de &quot; opt-out &quot; si vous ne voulez pas votre<strong>identifiant</strong> transféré à des tiers comme nécessaire pour exploiter le<strong>sous-jacent du</strong>, mais votre expérience et / ou la participation au programme sous-jacent<strong></strong> peut ensuite être limité. <strong>dans</strong> ne sera pas transférer<strong>SPI</strong> à des tiers sauf si vous recevez une opter d'abord exprimer au choix &quot; &quot;.</p>\r\n<p>L'utilisation par et la divulgation à des tiers de<strong>identifiant</strong> et/ou<strong>SPI</strong> conjointement avec l'exploitation et la gestion de ce site ou<strong>sous-jacent du programme</strong> est limitée aux fonctions nécessaires de ce site et pour les performances du<strong>sous-jacent du programme</strong> par<strong>dans</strong> pour<strong>dans le client</strong>, et est limitée à la quantité minimum de<strong>Informations</strong> nécessaires pour ce tiers pour effectuer sa fonction. \\ Exemples: Une personne ' s nom et adresse doivent être partagés avec une tierce compagnie maritime, ou un numéro de carte de crédit peuvent être requis par une société de traitement de paiement. <strong>Informations</strong> ne sera pas divulguée à un tiers sauf si le tiers souscrit aux Safe Harbor Privacy Principles, ou<strong>)</strong> a conclu un accord écrit avec ces tiers nécessitant le tiers à fournir au moins le même niveau de protection de la vie privée comme requis par les principes pertinents.</p>\r\n<h4>INFORMATION FOURNIE AUX CLIENTS BIW</h4>\r\n<p>Lorsqu'une personne s'inscrit dans ce site, un individu soit terminé un profil d'inscription, ou<strong>) Client</strong> fournit les données via un échange de données sécurisé. <strong>Informations</strong> collectées à partir du profil d'inscription seront partagés avec les clients<strong>dans</strong> , sauf pour les programmes de fidélisation de coalition pour lequel les suivantes s'appliquent \\:</p>\r\n<ul>\r\n<li>Après l'inscription dans un programme de fidélisation de coalition impliquant plusieurs <strong>dans le client</strong>, une personne doit avoir le choix de choisir de recevoir les e-mails d'information sur <strong>dans le client </strong> des produits et services directement depuis <strong>dans</strong>.</li>\r\n<li>Si une personne choisit de ne pas choisir de recevoir les e-mails d'information, <strong>) les clients </strong>ne recevra pas cet individu ' adresse électronique s.</li>\r\n<li>Après l'inscription, une personne peut choisir de recevoir <strong>) client </strong>des courriers électroniques via le site.</li>\r\n<li>La personne devra se désabonner de communications reçues directement à partir de <strong>dans les clients </strong> via le essage pertinentes du lien de désabonnement.</li>\r\n</ul>\r\n<h4>COOKIES</h4>\r\n<p>Ce site peut utiliser &quot; cookies pour améliorer l'expérience individuelle sur notre site. Les cookies sont de petits morceaux d'informations importantes qui sont stockés par le navigateur Web s ' individuels sur la personne du disque dur de l'ordinateur. Ces cookies sont utilisés pour améliorer la convivialité du site et la personnalisation, et d'aider à la navigation du site. Ces cookies contiennent des informations uniquement qu'un individu a fourni à ce site. Ces cookies ne lisent pas d'autres données provenant d'un ordinateur &quot; individuel ou partager des informations avec des cookies à partir d'autres sites. Les cookies peuvent rester sur un ordinateur individuel &quot; après la session de navigateur Web s ' individuels a expiré pour aider une personne lorsque les retours individuels à ce site.</p>\r\n<p>Les publicités peuvent occasionnellement être placé sur ce site. Ces annonces peuvent également contenir des cookies et semblent être provenant de ce site, mais sont en fait, venant de parrainer des clients ou d'autres parties qui présentent des annonces sur ce site.</p>\r\n<p>Vous pouvez configurer votre navigateur Web pour accepter tous les cookies, rejeter tous les cookies, ou vous informer lorsqu'un cookie est défini. Chaque navigateur Web est différent, donc vérifier l'aide &quot; du menu de votre navigateur Web pour savoir comment modifier vos préférences de cookies. Si une personne rejette tous les cookies, un individu ne peut être en mesure d'utiliser une partie ou la totalité des fonctions de ce site.</p>\r\n<h4>SÉCURITÉ DE L'INFORMATION</h4>\r\n<p>Vos informations sont stockées sur nos serveurs situés aux États-Unis. Nous traitons des données comme un actif qui doit être protégé et nous employer de nombreux outils techniques avancées pour protéger votre<strong>Informations</strong> contre l'accès et la divulgation non autorisée.</p>\r\n<p>Ce site comporte des mesures de sécurité en place pour protéger contre la perte, détournement, et l'altération des renseignements sous son contrôle. Lorsque vous fournissez<strong>identifiant</strong> et/ou<strong>SPI</strong> via Internet, et que vous accédez au site à l'aide d'un navigateur Web capable de soutenir la technologie SSL (Secure Socket Layer), votre<strong>Informations</strong> est protégé par l'utilisation à la fois l'authentification serveur et le chiffrement des données. Ce site emploie également divers autres mécanismes pour s'assurer que les données que vous fournissez n'est pas perdu, abusivement, ou modifié de manière inappropriée. Ces contrôles incluent, mais sans s'y limiter, les pare-feux et les mots de passe, les contrôles d'accès physique, les contrôles d'accès logique, les procédures de contrôle des changements, les politiques de confidentialité des données et les sauvegardes de base de données ordinaire.</p>\r\n<p>Ce site restreint l'accès à<strong>identifiant</strong> et<strong>SPI</strong> collectées via le site pour les employés qui nécessitent un accès à<strong>Informations</strong> à des fins d'administration. Ces employés sont limitées en nombre, et sont liés par la confidentialité du site et les politiques de sécurité. Nous avons également besoin que nos employés exécutent des accords de non-divulgation complète avec nous pour protéger les individus &quot; des informations confidentielles.</p>\r\n<h4>RÉVISION ET MODIFICATION DE RENSEIGNEMENTS PERSONNELS</h4>\r\n<p>Une personne peut corriger, modifier ou supprimer les portions de leur<strong>Informations</strong> via l'interface du site ou en utilisant leur processus de mise à jour des entreprises, selon la façon dont les informations d'origine a été reçue. Bien que des efforts raisonnables sont faits pour garantir l'intégrité des données dans tous les systèmes soutenant ce site, certains<strong>Informations</strong> peut être transféré à d'autres bases de données protégées non connecté à ce site mais contrôlée par<strong>dans</strong>. En conséquence, certaines corrections, modifications ou suppressions peut prendre plus de processus que d'autres, mais se fera dans un délai raisonnable. <strong>)</strong> prend des mesures raisonnables pour s'assurer que les données sont fiables pour son utilisation prévue, exacts, complets et à jour.</p>\r\n<h4>POLITIQUE DE CONFIDENTIALITÉ DES MODALITÉS ET CONDITIONS D'ACCEPTATION</h4>\r\n<p>En visitant ce site, les personnes conviennent aux pratiques décrites dans cette<strong>PrivacyPolicy</strong>. Dans la mesure où les sites tiers accessible via ce site ont des pratiques de confidentialité différentes de celles décrites dans cette<strong>PrivacyPolicy</strong>, ces pratiques de confidentialité de tiers régissent la collecte et l'utilisation des renseignements d'une personne fournit lorsqu'ils visitent ces sites. <strong>)</strong> n'est pas responsable des pratiques de sécurité ou de confidentialité de ces autres sites, les produits ou services offerts par ces autres sites, ou le contenu figurant à ces autres sites. Si vous accédez à un site lié, il est de votre responsabilité de lire la déclaration politique du site d'autres comprennent leurs politiques, et à agir en conséquence pour votre<strong>Information conserver</strong> privés et confidentiels.</p>\r\n<h4>MODIFICATIONS A CETTE POLITIQUE DE PROTECTION DES RENSEIGNEMENTS PERSONNELS EN LIGNE</h4>\r\n<p>À l'occasion, il peut être nécessaire de modifier les termes et conditions de cette<strong>PrivacyPolicy</strong>. Pour vous assurer qu'un individu est conscient des pratiques de confidentialité actuelle, il est recommandé que les individus vérifier ce site ' s<strong>PrivacyPolicy</strong> périodiquement. Ce site ne sera pas matériellement augmenter comment il gère les informations précédemment collectées sans préavis, et le choix de désinscription comme approprié, les individus avant<strong>PrivacyPolicy</strong> est sensiblement élargi.</p>\r\n<h4>CONTACTER LE SITE WEB DE L'ADMINISTRATEUR</h4>\r\n<p>Si vous avez des questions, demandes ou plaintes concernant cette<strong>PrivacyPolicy</strong> ou l'utilisation de votre<strong>Informations</strong>, veuillez utiliser le lien &quot; ContactUs &quot; sur le site ; nous contacter par courrier au BI MONDIAL, 7630 Bush Lake Road, Minneapolis, Minnesota 55439.</p>",
+        "activityHistory.content.unavailableMessage" : "<p class=\"error\">Oh oh ! Quelque chose n'a pas fonctionné.</p>\r\n<p>Votre histoire isn ' t historique. Veuillez vérifier ultérieurement.</p>",
+        "contactUs.input.emailLabel" : "Adresse électronique",
+        "activityHistory.column.dateLabel" : "DATE",
+        "forgotUserId.button.submitLabel" : "ID utilisateur de la demande",
+        "profile.page.passwordHeader" : "Changement du mot de passe",
+        "home.button.viewCatalogLabel" : "Afficher les marchandises",
+        "forgotPassword.button.submitLabel" : "Demande de mot de passe",
+        "contactUs.form.headerLabel" : "Contactez-nous",
+        "login.link.activateLabel" : "Activer le compte",
+        "home.content.welcomeMessageNeverEarned" : "<h2>Bienvenue, ${ firstName }.</h2>\r\n<p class=\"points branded\">Prêt. Définir. Gagnez !</p>",
+        "resetPassword.form.headerLabel" : "Réinitialiser le mot de passe",
+        "rules.page.header" : "Règles",
+        "login.input.forgotUserIdLabel" : "J'ai oublié mon ID utilisateur",
+        "activityHistory.column.descriptionLabel" : "DESCRIPTION",
+        "profile.input.oldPasswordLabel" : "Ancien mot de passe",
+        "home.content.welcomeMessageUnavailable" : "<h2>Bienvenue, ${ firstName }.</h2>\r\n<p class=\"points error\">Oh oh ! Quelque chose n'a pas fonctionné.</p>\r\n<p>Fais t ' Don, vos points sont encore ici. Veuillez vérifier ultérieurement.</p>",
+        "login.input.languageLabel" : "Changer de langue",
+        "common.copyrightLabel" : "© ${ année } BI WORLDWIDE™ Tous droits réservés.",
+        "login.button.submitLabel" : "Connexion",
+        "profile.page.localeSuccessMessage" : "Langue Mise à jour réussie.",
+        "home.header.merchDownLabel" : "Nous avons acheté &quot; jusqu'à nous a chuté.",
+        "login.input.forgotPasswordLabel" : "J'ai oublié mon mot de passe",
+        "home.button.viewActivityHistory" : "Afficher l'historique d'activité",
+        "activityHistory.form.fromLabel" : "De:",
+        "home.content.welcomeMessageAllSpent" : "<h2>Bienvenue, ${ firstName }.</h2>",
+        "forgotUserId.input.emailAddressLabel" : "Adresse électronique",
+        "activityHistory.content.noActivityMessageBetween" : "<div>Vous n'avez pas d'activité à afficher entre ${ startDate } et ${ endDate }.</div>",
+        "common.passwordRules.numberLabel" : "Nombre",
+        "activityHistory.content.noActivityMessageOn" : "Vous n'avez pas d'activité à afficher sur ${ startDate }.",
+        "home.content.catalogDownMessage" : "Quelque chose n'a pas fonctionné. Rechargez la page ou vérifier ultérieurement.",
+        "activityHistory.page.header" : "Historique d'activité",
+        "home.content.welcomeMessage" : "<h2>Bienvenue, ${ firstName }. Vous avez</h2>\r\n<p class=\"points branded\">${ équilibre } <span class=\"${balance}\">${ mediaLabel }</span></p>",
+        "home.header.shopMerchLabel" : "Shop &quot; jusqu'à vous déplacer.",
+        "faqs.page.content" : "<dl> <dt class=\"question\">Q: Je ne me souviens pas mon ${ userIdLabel }, que dois-je faire?</dt> <dd class=\"answer\">\r\n<p>Cliquez sur votre nom dans le coin supérieur droit du site. Votre ${ userIdLabel } apparaît sur votre page de profil.</p>\r\n</dd> <dt class=\"question\">Q: Puis-je modifier mon ${ userIdLabel }?</dt> <dd class=\"answer\">\r\n<p>No Une fois votre ${ userIdLabel } est créé, il ne peut pas être modifié.</p>\r\n</dd> <dt class=\"question\">Q: Je ne me souviens pas mon mot de passe, que dois-je faire?</dt> <dd class=\"answer\">\r\n<p>Sur la page de connexion, cliquez sur le lien Mot de passe oublié. Vous devrez entrer votre ${ userIdLabel } et ${ verificationFieldLabel } afin de définir un nouveau mot de passe.</p>\r\n</dd> <dt class=\"question\">Q: Comment modifier mon mot de passe?</dt> <dd class=\"answer\">\r\n<p>Cliquez sur votre nom dans le coin supérieur droit du site pour accéder à votre profil. Vous devrez entrer votre mot de passe en cours pour définir un nouveau mot de passe.</p>\r\n</dd> <dt class=\"question\">Q: Comment modifier mes paramètres de profil ou d'information?</dt> <dd class=\"answer\">\r\n<p>Cliquez sur votre nom dans le coin supérieur droit du site pour accéder à votre profil. Vous pouvez mettre à jour vos préférences de mot de passe et langue (si plusieurs langues sont disponibles pour votre programme).</p>\r\n</dd> <dt class=\"question\">Q: Comment savoir combien de points j'ai?</dt> <dd class=\"answer\">\r\n<p>Vous pouvez voir vos prix actuels du point d'équilibre au début de la page d'accueil. Vous pouvez également accéder à votre historique Activité en cliquant sur votre solde point dans l'en-tête ou sur la page d'accueil.</p>\r\n</dd> <dt class=\"question\">Q: Existe-t-il un endroit que je peux voir comment j'ai passé mes points?</dt> <dd class=\"answer\">\r\n<p>Oui, votre histoire Activité répertorie tous les dépôts et retraits. Cliquez sur vos points d'équilibre sur la page d'accueil.</p>\r\n</dd> <dt class=\"question\">Q: Comment passer mes points?</dt> <dd class=\"answer\">\r\n<p>Cliquez sur la dalle de marchandises ou de voyage (si disponible) et une nouvelle fenêtre s'ouvre avec votre catalogue s'affiche.</p>\r\n</dd> <dt class=\"question\">Q: Est-ce que mes points jamais expirer?</dt> <dd class=\"answer\">\r\n<p>Non, vos points n'expire jamais.</p>\r\n</dd> <dt class=\"question\">Q: Dois-je passer tous mes points à un moment?</dt> <dd class=\"answer\">\r\n<p>No Vous pouvez échanger vos points chaque fois que vous souhaitez. Veuillez noter que les bourses de marchandises disponibles changent au fil du temps, comme les produits / anciens modèles sont abandonnées et les produits / nouveaux modèles sont ajoutés.</p>\r\n</dd> <dt class=\"question\">Q: Que se passera-t-il si je n'utilise pas mes points ce mois ou cette année?</dt> <dd class=\"answer\">\r\n<p>Points n'expire jamais. Vous avez gagné les ; elles sont vôtres pour tenir. Vous pouvez utiliser certains ou tous vos points immédiatement ou les sauvegarder pour rachat futur. Le choix est le vôtre.</p>\r\n</dd> <dt class=\"question\">Q: Est-ce que tous les produits sur le site actuel?</dt> <dd class=\"answer\">\r\n<p>Oui, tous les produits affichés dans le catalogue de rachat sont en cours. Les produits sont achetés localement et sont mis à jour fréquemment.</p>\r\n</dd> </dl>",
+        "activation.form.headerLabel" : "Activer le compte",
+        "profile.button.submitLabel" : "Mise à jour du mot de passe",
+        "login.input.noPasswordLabel" : "Aucun mot de passe?",
+        "common.button.cancelLabel" : "Annuler",
+        "common.passwordRules.specialCharacterLabel" : "Caractère spécial",
+        "footer.link.privacyPolicyLabel" : "PrivacyPolicy",
+        "common.passwordRules.lengthLabel" : "Exigence de longueur (${ minLength }-${ maxLength })",
+        "home.header.shopTravelLabel" : "Vous avez effacé pour décoller.",
+        "home.header.travelDownLabel" : "Nous avons été immobilisés &quot;.",
+        "footer.link.contactLabel" : "Contactez-nous",
+        "common.content.launchAsLabel" : "Lancé comme",
+        "common.button.logoutLabel" : "Déconnexion",
+        "home.content.allSpentMessage" : "<p class=\"points branded all-spent-msg\">Vous &quot; avez passé tous vos<span class=\"media-label\">${ mediaLabel }.</span></p>",
+        "home.header.shopLabel" : "Marchandise",
+        "home.header.travelLabel" : "Voyages",
+        "common.button.clearLabel" : "Effacer",
+        "ots.button.submitLabel" : "Soumettre",
+        "ots.content.title" : "À L'emplacement",
+        "ots.error.invalidCode" : "<p><strong>Square chevillier, répondent trou rond.</strong></p>\r\n<p>Le numéro de série est incorrect.</p>",
+        "ots.error.unknown" : "<p><strong>C'est embarrassant.</strong></p>\r\n<p>Il semble avoir un problème. Veuillez réessayer ultérieurement.</p>",
+        "ots.error.usedCode" : "<p><strong>J'aimerais Déjà vu.</strong></p>\r\n<p>Le numéro de série entré a déjà été utilisé.</p>",
+        "ots.success.message" : "<p class=\"headline\"><strong>Félicitations !</strong></p>\r\n<p><strong>${ numberOfPoints } ${ mediaLabel }</strong></p>\r\n<p>Ont été déposés dans votre compte.</p>",
+        "ots.error.notInAudience" : "<p><strong>Nous re &quot; désolé.</strong></p>\r\n<p>Vous n'êtes pas admissible pour activer la carte que vous avez reçus.</p>",
+        "calendar.button.prevYearLabel" : "Année précédente",
+        "common.passwordRules.requirementsLabel" : "Exigences de mot de passe",
+        "calendar.button.prevMonthLabel" : "Mois précédent",
+        "calendar.button.prevDecadeLabel" : "Décennie précédente",
+        "sso.error.userData" : "Un incident s'est produit lors de l'obtention des informations de votre compte utilisateur.",
+        "sso.error.invalidCredentials" : "Oups ! Ces données d'identification ne sont pas valides.",
+        "sso.error.login" : "Oups ! Un incident s'est produit lors de la connexion.",
+        "calendar.button.nextMonthLabel" : "NextMonth",
+        "common.button.dismissAlertLabel" : "Fermer l'alerte",
+        "calendar.content.titleLabel" : "Calendrier",
+        "calendar.button.nextYearLabel" : "Année suivante",
+        "calendar.button.nextDecadeLabel" : "Prochaine décennie",
+        "ots.content.instructions" : "<p>Qu'est-ce que tu attends?</p>\r\n<p>Découvrez combien est sur votre carte !</p>",
+        "ots.error.expiredCode" : "<p><strong>Repose en paix.</strong></p>\r\n<p>Le numéro de série entré a déjà expiré.</p>",
+        "sso.link.returnToLogin" : "Essayez à nouveau",
+        "common.button.backLabel" : "Retour",
+        "ots.error.badRequest" : "<p><strong>C'est embarrassant.</strong></p>\r\n<p>Il semble avoir un problème. Veuillez réessayer ultérieurement.</p>",
+        "sso.error.noSessionId" : "Oups ! Aucune session a été fourni par le serveur après la connexion.",
+        "profile.page.userDetailsHeader" : "Détails de l'utilisateur",
+        "sso.link.returnToCustomerApp" : "Retour à ${ customerAppName } de connexion",
+        "sso.content.fetchingUser" : "Demande d'informations utilisateur ...",
+        "ots.form.cardPlaceholder" : "Entrez votre numéro de série ici",
+        "activation.form.birthDatePlaceholder" : "DD/MM",
+        "activation.form.hireDatePlaceholder" : "MM/DD/YYYY",
+        "common.content.ssoLogoutMessage" : "Vous avez été déconnecté avec succès.",
+        "common.content.copyrightLabel" : "© ${ année } BI WORLDWIDE™ Tous droits réservés.",
+        "ots.form.cardLabel" : "<p>Entrez votre numéro de série.</p>",
+        "home.link.viewActivityHistoryLabel" : "Afficher l'historique d'activité",
+        "common.docTitles.forgotPassword" : "Mot de passe oublié | PRO Comptes",
+        "common.docTitles.forgotUserId" : "Vous avez oublié votre ID utilisateur | PRO Comptes",
+        "home.header.homeHeaderLabel" : "Accueil",
+        "common.docTitles.activation" : "Activation des comptes PRO |",
+        "common.docTitles.rules" : "Règles | PRO Comptes",
+        "common.docTitles.resetPassword" : "Réinitialiser le mot de passe | PRO Comptes",
+        "common.docTitles.faqs" : "FAQ | PRO Comptes",
+        "common.docTitles.profile" : "Profil | PRO Comptes",
+        "common.docTitles.privacyPolicy" : "Confidentialité | PRO Comptes",
+        "common.docTitles.activityHistory" : "Activité Historique | PRO Comptes",
+        "common.docTitles.home" : "Accueil | PRO Comptes",
+        "common.docTitles.contact" : "Contactez-nous | PRO Comptes",
+        "common.docTitles.error" : "Erreur | PRO Comptes",
+        "login.header.loginHeaderLabel" : "Connexion",
+        "common.docTitles.login" : "Connexion | PRO Comptes",
+        "calendar.content.instructionsLabel" : "Utilisez les touches fléchées pour mettre en évidence les dates. Appuyez sur entrée pour sélectionner une date."
+      },
+      "simpleProperties" : {
+      },
+      "lastModified" : "2018-03-08T10:46:46-0600"
+    }
+  },
+  "passwordRules" : {
+    "isLowerCaseRequired" : true,
+    "isUpperCaseRequired" : true,
+    "isNumberRequired" : true,
+    "isSpecialCharRequired" : true,
+    "minLength" : 8,
+    "maxLength" : 15
+  },
+  "ssoConfig" : {
+    "clientSite" : {
+      "name" : "Client Site",
+      "url" : "https://insider.biworldwide.com"
+    },
+    "ssoType" : "sso_login",
+    "ssoLogoutType" : "login"
+  }
+}
