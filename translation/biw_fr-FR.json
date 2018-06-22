@@ -1,0 +1,123 @@
+{
+  "smartling" : {
+    "string_format_paths" : "html: *",
+    "translate_paths" : {
+      "path" : "*/properties/*",
+      "key" : "*/properties/{*}"
+    }
+  },
+  "clientBranding" : {
+    "productName" : "proaccounts",
+    "clientLogo" : "https://apipprd.farm1.honeycombsvc.com/hcapi/participantMedia/bery0915/logo/1512747171526_logo.png",
+    "selectedLocale" : [],
+    "activationFields" : [
+    {
+      "id" : 5282,
+      "characteristic" : {
+        "code" : "country",
+        "label" : "Country"
+      },
+      "characteristicDataType" : "text",
+      "fieldLabel" : [
+      {
+        "locale" : {
+          "code" : "en-US",
+          "dir" : "ltr"
+        },
+        "displayName" : "English (United States)",
+        "cmText" : "Country"
+      }]
+    }],
+    "theme" : null,
+    "mediaLabels" : [
+    {
+      "locale" : {
+        "code" : "en-US",
+        "dir" : "ltr"
+      },
+      "displayName" : "English (United States)",
+      "cmText" : "Points"
+    }]
+  },
+  "locale" : "en-US",
+  "localeList" : [
+  {
+    "code" : "id-ID",
+    "label" : "Bahasa [Indonesia]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "de-DE",
+    "label" : "Deutsch [Deutschland]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "en-US",
+    "label" : "English [U.S.]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "es-ES",
+    "label" : "Español [España]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "fr-CA",
+    "label" : "Français [Canada]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "it-IT",
+    "label" : "Italiano [Italia]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "nl-NL",
+    "label" : "Nederlands [Nederland]",
+    "dir" : "ltr"
+  },
+
+  {
+    "code" : "ja-JP",
+    "label" : "日本語 [日本]",
+    "dir" : "ltr"
+  }],
+  "bundleList" : {
+    "en-US" : {
+      "bundleId" : null,
+      "name" : "proaccounts",
+      "locale" : {
+        "code" : "en-US",
+        "dir" : "ltr"
+      },
+      "properties" : {
+        "calendar.content.instructionsLabel" : "Appuyez sur entrée pour sélectionner une date."
+      },
+      "simpleProperties" : {
+      },
+      "lastModified" : "2018-03-08T10:46:46-0600"
+    }
+  },
+  "passwordRules" : {
+    "isLowerCaseRequired" : true,
+    "isUpperCaseRequired" : true,
+    "isNumberRequired" : true,
+    "isSpecialCharRequired" : true,
+    "minLength" : 8,
+    "maxLength" : 15
+  },
+  "ssoConfig" : {
+    "clientSite" : {
+      "name" : "Client Site",
+      "url" : "https://insider.biworldwide.com"
+    },
+    "ssoType" : "sso_login",
+    "ssoLogoutType" : "login"
+  }
+}
