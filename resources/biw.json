@@ -1,0 +1,253 @@
+{ "smartling": 
+	{ 
+	"string_format_paths": "html: *",
+	"translate_paths" : {
+		"path": "*/properties/*",
+		"key": "*/properties/{*}"
+	}
+	},
+  "clientBranding": {
+    "productName": "proaccounts",
+    "clientLogo": "https://apipprd.farm1.honeycombsvc.com/hcapi/participantMedia/bery0915/logo/1512747171526_logo.png",
+    "selectedLocale": [],
+    "activationFields": [
+      {
+        "id": 5282,
+        "characteristic": {
+          "code": "country",
+          "label": "Country"
+        },
+        "characteristicDataType": "text",
+        "fieldLabel": [
+          {
+            "locale": {
+              "code": "en-US",
+              "dir": "ltr"
+            },
+            "displayName": "English (United States)",
+            "cmText": "Country"
+          }
+        ]
+      }
+    ],
+    "theme": null,
+    "mediaLabels": [
+      {
+        "locale": {
+          "code": "en-US",
+          "dir": "ltr"
+        },
+        "displayName": "English (United States)",
+        "cmText": "Points"
+      }
+    ]
+  },
+  "locale": "en-US",
+  "localeList": [
+    {
+      "code": "id-ID",
+      "label": "Bahasa [Indonesia]",
+      "dir": "ltr"
+    },
+    {
+      "code": "de-DE",
+      "label": "Deutsch [Deutschland]",
+      "dir": "ltr"
+    },
+    {
+      "code": "en-US",
+      "label": "English [U.S.]",
+      "dir": "ltr"
+    },
+    {
+      "code": "es-ES",
+      "label": "Español [España]",
+      "dir": "ltr"
+    },
+    {
+      "code": "fr-CA",
+      "label": "Français [Canada]",
+      "dir": "ltr"
+    },
+    {
+      "code": "it-IT",
+      "label": "Italiano [Italia]",
+      "dir": "ltr"
+    },
+    {
+      "code": "nl-NL",
+      "label": "Nederlands [Nederland]",
+      "dir": "ltr"
+    },
+    {
+      "code": "ja-JP",
+      "label": "日本語 [日本]",
+      "dir": "ltr"
+    }
+  ],
+  "bundleList": {
+    "en-US": {
+      "bundleId": null,
+      "name": "proaccounts",
+      "locale": {
+        "code": "en-US",
+        "dir": "ltr"
+      },
+      "properties": {
+        "home.button.viewTravelLabel": "View Travel Awards",
+        "footer.link.faqsLabel": "FAQs",
+        "contactUs.button.submitLabel": "Send Message",
+        "footer.link.rulesLabel": "Rules",
+        "resetPassword.input.newPasswordLabel": "New Password",
+        "contactUs.input.subjectLabel": "Subject",
+        "login.input.passwordLabel": "Password",
+        "activityHistory.column.amountLabel": "AMOUNT",
+        "privacy.policy.header": "Privacy Policy",
+        "common.content.pointsMessage": "<span class=\"point\">${balance}</span> <span class=\"media-label\">${mediaLabel}</span>",
+        "forgotPassword.form.headerLabel": "Forgot Password",
+        "forgotUserId.form.headerLabel": "Forgot User ID",
+        "resetPassword.input.passwordLabel": "Password",
+        "home.content.welcomeMessageLabel": "<h2>Welcome, ${firstName}. You have...</h2>",
+        "profile.page.passwordSuccessMessage": "Password Updated Successfully.",
+        "profile.input.emailLabel": "Email Address",
+        "resetPassword.button.submitLabel": "Reset Password",
+        "common.input.nameLabel": "Name",
+        "activityHistory.form.accountNumberLabel": "Your Account Number:",
+        "activityHistory.content.noActivityMessage": "You have no activity to display",
+        "activityHistory.form.toLabel": "To:",
+        "forgotPassword.form.successMessage": "Email has been sent to your email address with instructions to create your Password.",
+        "forgotUserId.form.successMessage": "An email has been sent to your email address with your User ID details.",
+        "faqs.page.header": "FAQs",
+        "profile.page.header": "Profile",
+        "profile.input.languageLabel": "Choose Language",
+        "common.passwordRules.uppercaseLabel": "Uppercase (A-Z)",
+        "common.passwordRules.lowercaseLabel": "Lowercase (a-z)",
+        "common.input.usernameLabel": "User ID",
+        "forgotPassword.input.emailAddressLabel": "Email Address",
+        "contactUs.input.messageLabel": "Message",
+        "contact.form.successMessage": "Message Sent Successfully.",
+        "resetPassword.form.successMessage": "Password changed Successfully. Please Login with new password",
+        "privacy.policy.content": "<h3>INTRODUCTION</h3>\r\n<p>BI WORLDWIDE (\"<strong>BIW</strong>\") complies with the U.S.-Swiss Safe Harbor Framework, and the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information or data obtained from individuals of Switzerland and the European Union. <strong>BIW</strong> has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view BIW's certification, please visit <a href=\"http://2016.export.gov/safeharbor/\">Safe Harbor Website</a>.</p>\r\n<p><strong>BIW</strong> controls this site and treats the privacy of individuals registering on this site with the utmost importance. This online privacy policy (\"<strong>Privacy Policy</strong>\") discloses the current privacy practices employed by this site. This <strong>Privacy Policy</strong> addresses how <strong>BIW</strong> uses and protects the information that <strong>BIW</strong> collects directly from you, receives from your employer or the company sponsoring this website and the underlying program (\"<strong>BIW Customer</strong>\") as part of the services provided by <strong>BIW</strong>. This <strong>Privacy Policy</strong> <span>does not apply</span> to the practices of companies and their employees with whom this site is not affiliated by ownership or control.</p>\r\n<p><strong>By using this site, you are agreeing to the terms of this Privacy Policy</strong></p>\r\n<h4>PURPOSE OF DATA COLLECTION</h4>\r\n<p>Individuals may be requested to provide Personally Identifiable Information (\"<strong>PII</strong>\") and/or Sensitive Personal Information<strong> (\"SPI\")</strong> during the use of this site to enable <strong>BIW</strong> to fulfill the requirements of the services provided by <strong>BIW</strong> (\"<strong>Underlying Program</strong>\"). \"<strong>PII</strong>\" refers to information that is (a) about, or pertains to a specific individual; (b) can be linked to that individual; and (c) is captured in any form. Examples of <strong>PII</strong> include, but are not limited to, name, home address, email, etc. \"<strong>SPI</strong>\" refers to personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership, social security number or other government issued ID, credit card number, or information that concerns an individual's health. \"<strong>PII\"</strong> and \"<strong>SPI\"</strong> is collectively referred to as \"<strong>Information</strong>\".</p>\r\n<p><strong>PII</strong> collected from individuals is used to create and administer individual accounts, including for purposes of account verification if an individual loses or forgets their password. <strong>PII</strong> may also be used to contact an individual via e-mail or print communications regarding special promotional offers, or may be used to contact an individual regarding any issues that may arise during the operation of this site or the underlying program.</p>\r\n<p><strong>PII</strong> may be used for purposes of delivery of awards to individuals. If this site includes the ability to redeem points for, or receive merchandise or travel awards, the individual will, as appropriate, receive communications with information about the transaction (such as order or shipment confirmation) or special promotions. An individual's phone number may be required in the event that an individual needs to be contacted if there is a problem with an order.</p>\r\n<p>When an individual logs onto the internet, the individual will be assigned an IP (Internet Protocol) address by an ISP (Internet Service Provider). Web sites can determine the IP address an individual is using when accessing the site. The IP address may be used to help diagnose problems with this site, or for security purposes.</p>\r\n<h4>ACTIVITY TRACKING</h4>\r\n<p>The site may track and analyze non-identifying, aggregate, usage and quantifiable statistical information from visitors (\"<strong>Statistical Information</strong>\") in order to constantly improve the quality of service and site performance. <strong>Statistical Information</strong> gathered includes items such as\\: the activity of your browser when you are viewing the site, the site path of your visit, and the time of day you visit the site. <strong>Statistical Information</strong> is not <strong>PII</strong> or <strong>SPI</strong>; only general information regarding activity within the site. <strong>BIW</strong> reserves the right to share <strong>Statistical Information</strong> with <strong>BIW Customers</strong>. This site ignores web browser \"do not track\" signals. This site does not pass along <strong>PII</strong> to third parties as part of any tracking technologies developed by BIW.</p>\r\n<p><strong>BIW</strong> uses Google Analytics tracking technologies or activities arising out of them in conjunction with this site.</p>\r\n<p>See <a href=\"https://www.google.com/analytics/#?modal_active=none\"><strong>Google Analytics</strong></a> for more information about Google Analytics</p>\r\n<p>To opt-out of Google Analytics for the web, visit the Google Analytics opt-out page at <a href=\"https://tools.google.com/dlpage/gaoptout\"><strong>Google Analytics Opt-Out</strong></a> and install the add-on for your browser. For more details on installing and uninstalling the add-on, please see the relevant help resources for your specific browser.</p>\r\n<p>Demographic and other individual profile information beyond that gathered during enrollment may also be requested via optional surveys or other site promotions or gathered from analysis of aggregate data or information from the site. This information may be used to deliver relevant, targeted offers to individuals and is not required to use this site.</p>\r\n<h4>USE AND TRANSFER TO THIRD PARTIES OF PERSONAL INFORMATION</h4>\r\n<p><strong>PII</strong> and <strong>SPI</strong> will not be sold or provided to any third parties except as provided in this <strong>Privacy Policy</strong>, requested by you, or as may be required by law. You have the right to \"opt out\" if you do not want your <strong>PII</strong> transferred to third parties as necessary to operate the <strong>Underlying Program</strong>, but your experience and/or participation in the <strong>Underlying Program</strong> may thereafter be limited. <strong>BIW</strong> will not transfer <strong>SPI</strong> to third parties unless you first receive an express \"opt in\" choice.</p>\r\n<p>The use by, and disclosure to third parties of <strong>PII</strong> and/or <strong>SPI</strong> in conjunction with the operation and management of this site or <strong>Underlying Program</strong> is restricted to necessary functions of this site and for the performance of the <strong>Underlying Program</strong> by <strong>BIW</strong> for <strong>BIW Customer</strong>, and is limited to the least amount of <strong>Information</strong> necessary for that third party to perform its function. Examples\\: An individual's name and address may need to be shared with a third party shipping company, or a credit card number may be required by a payment processing company. <strong>Information</strong> will not be disclosed to a third party unless the third party subscribes to the Safe Harbor Privacy Principles, or <strong>BIW</strong> has entered into a written agreement with such third party requiring the third party to provide at least the same level of privacy protection as required by the relevant principles.</p>\r\n<h4>INFORMATION PROVIDED TO BIW CUSTOMERS</h4>\r\n<p>When an individual enrolls in this site, an individual either completes an enrollment profile, or <strong>BIW Customer</strong> provides the data via a secure data file exchange. <strong>Information</strong> collected from the enrollment profile will be shared with <strong>BIW Customers</strong> except for coalition loyalty programs for which the following shall apply\\:</p>\r\n<ul>\r\n<li>Upon enrolling in a coalition loyalty program involving more than one <strong>BIW Customer</strong>, an individual shall have the choice to opt-in to receive informative emails about <strong>BIW Customer </strong> products and services directly from <strong>BIW Customers</strong>.</li>\r\n<li>If an individual chooses not to opt-in to receive informative emails, <strong>BIW Customers </strong>will not receive that individual's email address.</li>\r\n<li>Subsequent to enrolling, an individual may opt-in to receive <strong>BIW Customer </strong>emails through the site.</li>\r\n<li>The individual will need to unsubscribe from communications received directly from <strong>BIW Customers </strong> via the relevant essage's unsubscribe link.</li>\r\n</ul>\r\n<h4>COOKIES</h4>\r\n<p>This site may utilize \"cookies\" to improve individual experience on our site. Cookies are small bits of important information that are stored by the individual's web browser on the individual's computer hard drive. These cookies are used to enhance site usability and personalization, and to assist in site navigation. These cookies contain only information that an individual has supplied to this site. These cookies do not read other data from an individual's computer or share information with cookies from other sites. Cookies may remain on an individual's computer after the individual's web browser session has expired to assist an individual when the individual returns to this site.</p>\r\n<p>Ads may occasionally be placed on this site. These ads may also contain cookies and appear to be coming from this site, but are in fact, coming from sponsoring customers or other parties who are presenting ads on this site.</p>\r\n<p>You can configure your web browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each web browser is different, so check the \"help\" menu of your web browser to learn how to change your cookie preferences. If an individual rejects all cookies, an individual may not be able to use some or all of the features of this site.</p>\r\n<h4>SECURITY OF INFORMATION</h4>\r\n<p>Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and we employ many advanced technical tools to protect your <strong>Information</strong> against unauthorized access and disclosure.</p>\r\n<p>This site has security measures in place to help protect against the loss, misuse, and alteration of the information under its control. When you provide <strong>PII</strong> and/or <strong>SPI</strong> via the Internet, and you access the site using a web browser capable of supporting Secure Socket Layer (SSL) technology, your <strong>Information</strong> is protected by using both server authentication and data encryption. This site also employs a variety of other mechanisms to ensure that data you provide is not lost, misused, or altered inappropriately. These controls include, but are not limited to, firewalls, passwords, physical access controls, logical access controls, change control procedures, data confidentiality policies, and regular database backups.</p>\r\n<p>This site restricts access to <strong>PII</strong> and <strong>SPI</strong> gathered through the site to employees who require access to <strong>Information</strong> for the purposes of administration. These employees are limited in number, and are bound by the site's privacy and security policies. We also require that our employees execute comprehensive nondisclosure agreements with us to protect individuals' confidential information.</p>\r\n<h4>REVIEW AND CHANGE OF PERSONAL INFORMATION</h4>\r\n<p>An individual can correct, amend or delete portions of their <strong>Information</strong> via the site interface or by utilizing their corporate update process, depending on how the original information was received. While reasonable efforts are made to ensure data integrity throughout all systems supporting this site, some <strong>Information</strong> may be transferred to other protected databases not connected to this site but controlled by <strong>BIW</strong>. As a result, some corrections, amendments, or deletions may take longer to process than others, but will occur within a reasonable timeframe. <strong>BIW</strong> takes reasonable steps to ensure that data is reliable for its intended use, accurate, complete and current.</p>\r\n<h4>ACCEPTANCE OF PRIVACY POLICY TERMS AND CONDITIONS</h4>\r\n<p>By visiting this site, individuals agree to the practices described in this <strong>Privacy Policy</strong>. To the extent that any of the third-party sites accessible through this site have different privacy practices from those stated in this <strong>Privacy Policy</strong>, those third-party privacy practices govern the collection and use of information an individual provides when visiting those sites. <strong>BIW</strong> is not responsible for the security or privacy practices of these other sites, the products or services offered by these other sites, or the content appearing at these other sites. If you access a linked site, it is your responsibility to read the policy statement of the other site to understand their policies, and to act accordingly to keep your <strong>Information</strong> private and confidential.</p>\r\n<h4>CHANGES TO THIS ONLINE PRIVACY POLICY</h4>\r\n<p>On occasion, it may be necessary to change the terms and conditions of this <strong>Privacy Policy</strong>. To ensure that an individual is aware of current privacy practices, it is recommended that individuals check this site's <strong>Privacy Policy</strong> periodically. This site will not materially expand how it handles previously collected information without providing notice, and the choice to opt-out as appropriate, to individuals before the <strong>Privacy Policy</strong> is materially expanded.</p>\r\n<h4>CONTACTING THE WEB SITE ADMINISTRATOR</h4>\r\n<p>If you have any questions, inquiries or complaints regarding this <strong>Privacy Policy</strong> or the use of your <strong>Information</strong>, please use the \"Contact Us\" link on the site; contact us by mail at BI WORLDWIDE, 7630 Bush Lake Road, Minneapolis, Minnesota 55439.</p>",
+        "activityHistory.content.unavailableMessage": "<p class=\"error\">Uh oh! Something went wrong.</p>\r\n<p>Your history isn't history. Please check back later.</p>",
+        "contactUs.input.emailLabel": "Email Address",
+        "activityHistory.column.dateLabel": "DATE",
+        "forgotUserId.button.submitLabel": "Request User ID",
+        "profile.page.passwordHeader": "Change Password",
+        "home.button.viewCatalogLabel": "View Merchandise",
+        "forgotPassword.button.submitLabel": "Request Password",
+        "contactUs.form.headerLabel": "Contact Us",
+        "login.link.activateLabel": "Activate Account",
+        "home.content.welcomeMessageNeverEarned": "<h2>Welcome, ${firstName}.</h2>\r\n<p class=\"points branded\">Ready. Set. Earn!</p>",
+        "resetPassword.form.headerLabel": "Reset Password",
+        "rules.page.header": "Rules",
+        "login.input.forgotUserIdLabel": "I forgot my user ID",
+        "activityHistory.column.descriptionLabel": "DESCRIPTION",
+        "profile.input.oldPasswordLabel": "Old Password",
+        "home.content.welcomeMessageUnavailable": "<h2>Welcome, ${firstName}.</h2>\r\n<p class=\"points error\">Uh oh! Something went wrong.</p>\r\n<p>Don't worry, your points are still here. Please check back later.</p>",
+        "login.input.languageLabel": "Change Language",
+        "common.copyrightLabel": "© ${year} BI WORLDWIDE™ All Rights Reserved.",
+        "login.button.submitLabel": "Log in",
+        "profile.page.localeSuccessMessage": "Language Updated Successfully.",
+        "home.header.merchDownLabel": "We shopped 'till we dropped.",
+        "login.input.forgotPasswordLabel": "I forgot my password",
+        "home.button.viewActivityHistory": "View Activity History",
+        "activityHistory.form.fromLabel": "From:",
+        "home.content.welcomeMessageAllSpent": "<h2>Welcome, ${firstName}.</h2>",
+        "forgotUserId.input.emailAddressLabel": "Email Address",
+        "activityHistory.content.noActivityMessageBetween": "<div>You have no activity to display between ${startDate} and ${endDate}.</div>",
+        "common.passwordRules.numberLabel": "Number",
+        "activityHistory.content.noActivityMessageOn": "You have no activity to display on ${startDate}.",
+        "home.content.catalogDownMessage": "Something went wrong. Reload the page or check back later.",
+        "activityHistory.page.header": "Activity History",
+        "home.content.welcomeMessage": "<h2>Welcome, ${firstName}. You have</h2>\r\n<p class=\"points branded\">${balance} <span class=\"media-label\">${mediaLabel}</span></p>",
+        "home.header.shopMerchLabel": "Shop 'till you drop.",
+        "faqs.page.content": "<dl> <dt class=\"question\">Q: I can’t remember my ${userIdLabel}, what should I do?</dt> <dd class=\"answer\">\r\n<p>Click on your name in the upper right corner of the site. Your ${userIdLabel} is shown on your profile page.</p>\r\n</dd> <dt class=\"question\">Q: Can I change my ${userIdLabel}?</dt> <dd class=\"answer\">\r\n<p>No. Once your ${userIdLabel} is created, it cannot be changed.</p>\r\n</dd> <dt class=\"question\">Q: I can’t remember my password, what should I do?</dt> <dd class=\"answer\">\r\n<p>On the login page click on the Forgot Password link. You will need to enter your ${userIdLabel} and ${verificationFieldLabel} in order to set a new password.</p>\r\n</dd> <dt class=\"question\">Q: How do I change my password?</dt> <dd class=\"answer\">\r\n<p>Click on your name in the upper right corner of the site to access your Profile. You will need to enter your current password in order to set a new password.</p>\r\n</dd> <dt class=\"question\">Q: How do I view/modify My Profile settings or information?</dt> <dd class=\"answer\">\r\n<p>Click on your name in the upper right corner of the site to access your Profile. You can update your Password and language preference (if multiple languages are available for your program).</p>\r\n</dd> <dt class=\"question\">Q: How do I know how many points I have?</dt> <dd class=\"answer\">\r\n<p>You can see your current award point balance at the top of the home page. You can also go to your Activity History by clicking on your point balance in the header or on the home page.</p>\r\n</dd> <dt class=\"question\">Q: Is there some place I can see how I have spent my points?</dt> <dd class=\"answer\">\r\n<p>Yes, your Activity History lists all deposits and withdrawals. Click on your points balance on the home page.</p>\r\n</dd> <dt class=\"question\">Q: How do I spend my points?</dt> <dd class=\"answer\">\r\n<p>Click on the merchandise or travel tile (if available) and a new window will open with your catalog displayed.</p>\r\n</dd> <dt class=\"question\">Q: Will my points ever expire?</dt> <dd class=\"answer\">\r\n<p>No, your points never expire.</p>\r\n</dd> <dt class=\"question\">Q: Do I need to spend all my points at one time?</dt> <dd class=\"answer\">\r\n<p>No. You can redeem your points whenever you want. Please note that the merchandise awards available will change over time, as old products/models are discontinued and new products/models are added.</p>\r\n</dd> <dt class=\"question\">Q: What will happen if I don’t use my points this month or this year?</dt> <dd class=\"answer\">\r\n<p>Points never expire. You’ve earned them; they are yours to keep. You can redeem all or some of your points immediately or save them for future redemption. The choice is yours.</p>\r\n</dd> <dt class=\"question\">Q: Are all products on the site current?</dt> <dd class=\"answer\">\r\n<p>Yes, all products displayed in the redemption catalog are current. Products are sourced locally and are updated frequently.</p>\r\n</dd> </dl>",
+        "activation.form.headerLabel": "Activate Account",
+        "profile.button.submitLabel": "Update Password",
+        "login.input.noPasswordLabel": "No Password?",
+        "common.button.cancelLabel": "Cancel",
+        "common.passwordRules.specialCharacterLabel": "Special Character",
+        "footer.link.privacyPolicyLabel": "Privacy Policy",
+        "common.passwordRules.lengthLabel": "Length Requirement (${minLength}-${maxLength})",
+        "home.header.shopTravelLabel": "You’re cleared for takeoff.",
+        "home.header.travelDownLabel": "We've been grounded.",
+        "footer.link.contactLabel": "Contact Us",
+        "common.content.launchAsLabel": "Launched as",
+        "common.button.logoutLabel": "Logout",
+        "home.content.allSpentMessage": "<p class=\"points branded all-spent-msg\">You've spent all your <span class=\"media-label\">${mediaLabel}.</span></p>",
+        "home.header.shopLabel": "Merchandise",
+        "home.header.travelLabel": "Travel",
+        "common.button.clearLabel": "Clear",
+        "ots.button.submitLabel": "Submit",
+        "ots.content.title": "On The Spot",
+        "ots.error.invalidCode": "<p><strong>Square peg, meet round hole.</strong></p>\r\n<p>The serial number is not valid.</p>",
+        "ots.error.unknown": "<p><strong>This is awkward.</strong></p>\r\n<p>We appear to be having an issue. Please try again at a later time.</p>",
+        "ots.error.usedCode": "<p><strong>Feels like Déjà vu.</strong></p>\r\n<p>The serial number entered has already been used.</p>",
+        "ots.success.message": "<p class=\"headline\"><strong>Congrats!</strong></p>\r\n<p><strong>${numberOfPoints} ${mediaLabel}</strong></p>\r\n<p>have been deposited into your account.</p>",
+        "ots.error.notInAudience": "<p><strong>We're sorry.</strong></p>\r\n<p>You are not eligible to activate the card you received.</p>",
+        "calendar.button.prevYearLabel": "Previous Year",
+        "common.passwordRules.requirementsLabel": "Password Requirements",
+        "calendar.button.prevMonthLabel": "Previous Month",
+        "calendar.button.prevDecadeLabel": "Previous Decade",
+        "sso.error.userData": "There was a problem getting your user account information.",
+        "sso.error.invalidCredentials": "Oops! Those credentials were invalid.",
+        "sso.error.login": "Oops! There was a problem while logging in.",
+        "calendar.button.nextMonthLabel": "Next Month",
+        "common.button.dismissAlertLabel": "Dismiss Alert",
+        "calendar.content.titleLabel": "Calendar",
+        "calendar.button.nextYearLabel": "Next Year",
+        "calendar.button.nextDecadeLabel": "Next Decade",
+        "ots.content.instructions": "<p>What are you waiting for?</p>\r\n<p>Find out how much is on your card!</p>",
+        "ots.error.expiredCode": "<p><strong>Rest in peace.</strong></p>\r\n<p>The serial number entered has already expired.</p>",
+        "sso.link.returnToLogin": "Try again",
+        "common.button.backLabel": "Back",
+        "ots.error.badRequest": "<p><strong>This is awkward.</strong></p>\r\n<p>We appear to be having an issue. Please try again at a later time.</p>",
+        "sso.error.noSessionId": "Oops! No session was provided by the server after logging in.",
+        "profile.page.userDetailsHeader": "User Details",
+        "sso.link.returnToCustomerApp": "Return to ${customerAppName} login",
+        "sso.content.fetchingUser": "Requesting user info...",
+        "ots.form.cardPlaceholder": "Enter your serial number here",
+        "activation.form.birthDatePlaceholder": "MM/DD",
+        "activation.form.hireDatePlaceholder": "MM/DD/YYYY",
+        "common.content.ssoLogoutMessage": "You have been successfully logged out.",
+        "common.content.copyrightLabel": "© ${year} BI WORLDWIDE™ All Rights Reserved.",
+        "ots.form.cardLabel": "<p>Enter your serial number.</p>",
+        "home.link.viewActivityHistoryLabel": "View Activity History",
+        "common.docTitles.forgotPassword": "Forgot Password | PRO Accounts",
+        "common.docTitles.forgotUserId": "Forgot User ID | PRO Accounts",
+        "home.header.homeHeaderLabel": "Home",
+        "common.docTitles.activation": "Activation | PRO Accounts",
+        "common.docTitles.rules": "Rules | PRO Accounts",
+        "common.docTitles.resetPassword": "Reset Password | PRO Accounts",
+        "common.docTitles.faqs": "FAQs | PRO Accounts",
+        "common.docTitles.profile": "Profile | PRO Accounts",
+        "common.docTitles.privacyPolicy": "Privacy Policy | PRO Accounts",
+        "common.docTitles.activityHistory": "Activity History | PRO Accounts",
+        "common.docTitles.home": "Home | PRO Accounts",
+        "common.docTitles.contact": "Contact Us | PRO Accounts",
+        "common.docTitles.error": "Error | PRO Accounts",
+        "login.header.loginHeaderLabel": "Login",
+        "common.docTitles.login": "Login | PRO Accounts",
+        "calendar.content.instructionsLabel": "Use arrow keys to highlight dates. Pressing enter will select a date."
+      },
+      "simpleProperties": {},
+      "lastModified": "2018-03-08T10:46:46-0600"
+    }
+  },
+  "passwordRules": {
+    "isLowerCaseRequired": true,
+    "isUpperCaseRequired": true,
+    "isNumberRequired": true,
+    "isSpecialCharRequired": true,
+    "minLength": 8,
+    "maxLength": 15
+  },
+  "ssoConfig": {
+    "clientSite": {
+      "name": "Client Site",
+      "url": "https://insider.biworldwide.com"
+    },
+    "ssoType": "sso_login",
+    "ssoLogoutType": "login"
+  }
+}
